@@ -31,7 +31,7 @@ public class CafeteriaWsApplication {
 			Suco b6 = new Suco("Suco de Vita C", 3.50, false, 
 					Arrays.asList("Laranja", "Acerola"));
 			Suco b7 = new Suco("Vitaminado", 7.00, true, 
-					Arrays.asList("MaÃ§a", "Banana", "Morango"));
+					Arrays.asList("Maçã", "Banana", "Morango"));
 			
 			repositorio.save(b1);
 			repositorio.save(b2);
